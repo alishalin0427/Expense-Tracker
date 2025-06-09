@@ -1,0 +1,449 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\alish\\onedrive\\desktop\\expensetracker\\expensetracker\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\alish\\onedrive\\desktop\\expensetracker\\expensetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExpenseTracker\\Views\\Expense\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\alish\\onedrive\\desktop\\expensetracker\\expensetracker\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/140.138.144.66_SQL1422/1132netdbB/1132netdbB/SqlTable/dbo.TableUsers1112006.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\alish\\onedrive\\desktop\\expensetracker\\expensetracker\\views\\expense\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\expense\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\alish\\onedrive\\desktop\\expensetracker\\expensetracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\alish\\onedrive\\desktop\\expensetracker\\expensetracker\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\alish\\onedrive\\desktop\\expensetracker\\expensetracker\\views\\expense\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\expense\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Login1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExpenseTracker\\Views\\Expense\\Login1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\alish\\onedrive\\desktop\\expensetracker\\expensetracker\\data\\service\\expensesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\data\\service\\expensesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\alish\\onedrive\\desktop\\expensetracker\\expensetracker\\data\\expensetrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\data\\expensetrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\alish\\onedrive\\desktop\\expensetracker\\expensetracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\alish\\onedrive\\desktop\\expensetracker\\expensetracker\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\alish\\onedrive\\desktop\\expensetracker\\expensetracker\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\alish\\onedrive\\desktop\\expensetracker\\expensetracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\alish\\onedrive\\desktop\\expensetracker\\expensetracker\\migrations\\expensetrackercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\migrations\\expensetrackercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\alish\\onedrive\\desktop\\expensetracker\\expensetracker\\migrations\\20250520171838_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\migrations\\20250520171838_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\alish\\onedrive\\desktop\\expensetracker\\expensetracker\\data\\service\\iexpensesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\data\\service\\iexpensesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\alish\\onedrive\\desktop\\expensetracker\\expensetracker\\expensetracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F80735C-5717-410A-8A27-6CD500755C42}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\expensetracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExpenseTracker\\Views\\Expense\\Page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Page2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExpenseTracker\\Views\\Expense\\Page2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\LoginCheck.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExpenseTracker\\Views\\Expense\\LoginCheck.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExpenseTracker\\Views\\Expense\\Index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExpenseTracker\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Models\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExpenseTracker\\Models\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Models\\Register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExpenseTracker\\Models\\Register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Program.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Program.cs",
+              "RelativeToolTip": "ExpenseTracker\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:17:20.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExpenseController.cs",
+              "DocumentMoniker": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Controllers\\ExpenseController.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Controllers\\ExpenseController.cs",
+              "ToolTip": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Controllers\\ExpenseController.cs",
+              "RelativeToolTip": "ExpenseTracker\\Controllers\\ExpenseController.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAADwv9UAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:19:49.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Login.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Expense\\Login.cshtml",
+              "ToolTip": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Login.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Expense\\Login.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T16:39:39.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "ExpenseTracker\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\wwwroot\\index.html",
+              "RelativeToolTip": "ExpenseTracker\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-26T10:38:47.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.TableUsers1112006.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/140.138.144.66_SQL1422/1132netdbB/1132netdbB/SqlTable/dbo.TableUsers1112006.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/140.138.144.66_SQL1422/1132netdbB/1132netdbB/SqlTable/dbo.TableUsers1112006.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-09T01:55:56.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Expense\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Index.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Expense\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T17:36:16.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Index2.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Expense\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Index2.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Expense\\Index2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T01:41:44.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "ExpenseTracker\\appsettings.json",
+              "ToolTip": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\appsettings.json",
+              "RelativeToolTip": "ExpenseTracker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T17:16:54.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ExpenseTracker\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\appsettings.Development.json",
+              "RelativeToolTip": "ExpenseTracker\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T01:46:51.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Models\\User.cs",
+              "RelativeToolTip": "ExpenseTracker\\Models\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T08:04:22.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Models\\Login.cs",
+              "RelativeToolTip": "ExpenseTracker\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T03:24:56.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Create.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Expense\\Create.cshtml",
+              "ToolTip": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Create.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Expense\\Create.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T17:37:27.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login1.cshtml",
+              "DocumentMoniker": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Login1.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Expense\\Login1.cshtml",
+              "ToolTip": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Login1.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Expense\\Login1.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T16:42:48.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Page1.cshtml",
+              "DocumentMoniker": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Page1.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Expense\\Page1.cshtml",
+              "ToolTip": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Page1.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Expense\\Page1.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T16:51:10.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExpensesService.cs",
+              "DocumentMoniker": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Data\\Service\\ExpensesService.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Data\\Service\\ExpensesService.cs",
+              "ToolTip": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Data\\Service\\ExpensesService.cs",
+              "RelativeToolTip": "ExpenseTracker\\Data\\Service\\ExpensesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:48:00.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExpenseTrackerContext.cs",
+              "DocumentMoniker": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Data\\ExpenseTrackerContext.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Data\\ExpenseTrackerContext.cs",
+              "ToolTip": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Data\\ExpenseTrackerContext.cs",
+              "RelativeToolTip": "ExpenseTracker\\Data\\ExpenseTrackerContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:13:59.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Page2.cshtml",
+              "DocumentMoniker": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Page2.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Expense\\Page2.cshtml",
+              "ToolTip": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Page2.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Expense\\Page2.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T16:51:24.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginCheck.cshtml",
+              "DocumentMoniker": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\LoginCheck.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Expense\\LoginCheck.cshtml",
+              "ToolTip": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\LoginCheck.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Expense\\LoginCheck.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T16:50:50.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExpenseTracker\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:19:26.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Models\\Register.cs",
+              "ToolTip": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Models\\Register.cs",
+              "RelativeToolTip": "ExpenseTracker\\Models\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T08:04:23.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Models\\Expense.cs",
+              "RelativeToolTip": "ExpenseTracker\\Models\\Expense.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:11:11.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ExpenseTracker\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:24:20.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T17:34:03.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExpenseTrackerContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Migrations\\ExpenseTrackerContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Migrations\\ExpenseTrackerContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Migrations\\ExpenseTrackerContextModelSnapshot.cs",
+              "RelativeToolTip": "ExpenseTracker\\Migrations\\ExpenseTrackerContextModelSnapshot.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:33:02.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250520171838_initialDB.cs",
+              "DocumentMoniker": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Migrations\\20250520171838_initialDB.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Migrations\\20250520171838_initialDB.cs",
+              "ToolTip": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Migrations\\20250520171838_initialDB.cs",
+              "RelativeToolTip": "ExpenseTracker\\Migrations\\20250520171838_initialDB.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:18:38.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IExpensesService.cs",
+              "DocumentMoniker": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Data\\Service\\IExpensesService.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Data\\Service\\IExpensesService.cs",
+              "ToolTip": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\Data\\Service\\IExpensesService.cs",
+              "RelativeToolTip": "ExpenseTracker\\Data\\Service\\IExpensesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:46:03.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExpenseTracker.csproj",
+              "DocumentMoniker": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj",
+              "RelativeDocumentMoniker": "ExpenseTracker\\ExpenseTracker.csproj",
+              "ToolTip": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj",
+              "RelativeToolTip": "ExpenseTracker\\ExpenseTracker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T17:13:08.471Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

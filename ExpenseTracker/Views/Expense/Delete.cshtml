@@ -1,0 +1,229 @@
+﻿@model ExpenseTracker.Models.Expense
+@{
+    ViewData["Title"] = "Delete";
+}
+<div class="header-container">
+    <a asp-action="Index" class="back-btn">
+        <span class="btn-icon">←</span>
+        <span class="btn-text">回上一頁</span>
+    </a>
+    <h3>刪除</h3>
+</div>
+<hr />
+<div class="warning-message">
+    <p>確定要刪除這筆支出嗎？</p>
+</div>
+<div>
+    <div class="form-wrapper">
+        <dl class="form-wrap">
+            <div class="form-container">
+                <dt class="form-group">
+                    @Html.DisplayNameFor(model => model.Description)
+                </dt>
+                <dd class="form-group">
+                    @Html.DisplayFor(model => model.Description)
+                </dd>
+                <dt class="form-content">
+                    @Html.DisplayNameFor(model => model.Amount)
+                </dt>
+                <dd class="form-title">
+                    @Html.DisplayFor(model => model.Amount)
+                </dd>
+                <dt class="form-content">
+                    @Html.DisplayNameFor(model => model.Category)
+                </dt>
+                <dd class="form-title">
+                    @Html.DisplayFor(model => model.Category)
+                </dd>
+                <dt class="form-content">
+                    @Html.DisplayNameFor(model => model.Date)
+                </dt>
+                <dd class="form-title">
+                    @Html.DisplayFor(model => model.Date)
+                </dd>
+
+                
+                <div class="button-group">
+                    <form asp-action="Delete" style="display: inline;">
+                        <input type="hidden" asp-for="Id" />
+                        <input type="submit" value="確認刪除" class="btn btn-danger" />
+                    </form>
+                    <a asp-action="Index" class="btn btn-secondary">取消</a>
+                </div>
+            </div>
+        </dl>
+    </div>
+</div>
+
+<style>
+    .header-container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        margin-top: 40px;
+        margin-bottom: 20px;
+        vertical-align: middle;
+    }
+
+        .header-container a {
+            position: absolute;
+            left: 0;
+        }
+
+    .warning-message {
+        text-align: center;
+        margin-bottom: 10px;
+        padding: 10px;
+        background-color: #fff3cd;
+        border: 1px solid #ffeaa7;
+        border-radius: 8px;
+        color: #856404;
+        font-weight: 500;
+        max-width: 500px;
+        margin-left: auto;
+        margin-right: auto;
+        vertical-align: middle;
+    }
+
+    .form-wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 60vh;
+    }
+
+    .form-container {
+        width: 100%;
+        max-width: 500px;
+        padding: 30px;
+        background-color: #f8f9fa;
+        border-radius: 10px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    .form-group {
+        align-items: center;
+        margin-bottom: 15px;
+    }
+
+    .form-content {
+        margin-bottom: 5px;
+        font-weight: 600;
+        color: #495057;
+    }
+
+    .form-title {
+        margin-bottom: 15px;
+        padding: 8px 0;
+        border-bottom: 1px solid #dee2e6;
+        color: #212529;
+    }
+
+    .button-group {
+        margin-top: 30px;
+        display: flex;
+        gap: 15px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .btn {
+        padding: 10px 20px;
+        border-radius: 6px;
+        font-weight: 500;
+        text-decoration: none;
+        border: none;
+        cursor: pointer;
+        transition: all 0.3s ease;
+    }
+
+    .btn-danger {
+        background-color: #dc3545;
+        color: white;
+    }
+
+        .btn-danger:hover {
+            background-color: #c82333;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 8px rgba(220, 53, 69, 0.3);
+        }
+
+    .btn-secondary {
+        background-color: #6c757d;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+        .btn-secondary:hover {
+            background-color: #5a6268;
+            text-decoration: none;
+            color: white;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 8px rgba(108, 117, 125, 0.3);
+        }
+
+    .back-btn {
+        position: absolute;
+        top: 1px;
+        left: 1px;
+        z-index: 1000;
+        background-color: #007bff;
+        color: white;
+        border-radius: 50px;
+        padding: 8px 10px;
+        box-shadow: 0 4px 12px rgba(0, 123, 255, 0.15);
+        font-weight: 500;
+        text-decoration: none;
+        transition: all 0.4s ease;
+        overflow: hidden;
+        white-space: nowrap;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-width: 48px;
+        height: 48px;
+    }
+
+    .btn-icon {
+        font-size: 18px;
+        transition: all 0.3s ease;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        line-height: 1;
+        vertical-align: middle;
+    }
+
+    .btn-text {
+        max-width: 0;
+        overflow: hidden;
+        opacity: 0;
+        margin-left: 0;
+        transition: all 0.4s ease;
+        white-space: nowrap;
+        line-height: 1;
+        font-size: 14px;
+        display: flex;
+        align-items: center;
+        vertical-align: middle;
+    }
+
+    .back-btn:hover {
+        min-width: 120px;
+        transform: translateY(-2px);
+        box-shadow: 0 6px 20px rgba(0, 123, 255, 0.25);
+        text-decoration: none;
+        color: white;
+    }
+
+        .back-btn:hover .btn-text {
+            max-width: 80px;
+            opacity: 1;
+            margin-left: 8px;
+        }
+
+   
+</style>
