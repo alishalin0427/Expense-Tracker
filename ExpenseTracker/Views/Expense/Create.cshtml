@@ -1,4 +1,5 @@
 ﻿@model ExpenseTracker.Models.Expense
+@Html.ValidationSummary(true, "", new { @class = "text-danger" })
 @{
     ViewData["Title"] = "Create";
 }

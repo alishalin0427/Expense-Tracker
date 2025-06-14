@@ -17,73 +17,73 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ExpenseTracker
 build_property.RootNamespace = ExpenseTracker
-build_property.ProjectDir = C:\Users\alish\OneDrive\Desktop\ExpenseTracker\ExpenseTracker\
+build_property.ProjectDir = C:\Users\alish\OneDrive\Desktop\1112006new1\ExpenseTracker\ExpenseTracker\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\alish\OneDrive\Desktop\ExpenseTracker\ExpenseTracker
+build_property.MSBuildProjectDirectory = C:\Users\alish\OneDrive\Desktop\1112006new1\ExpenseTracker\ExpenseTracker
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/alish/OneDrive/Desktop/ExpenseTracker/ExpenseTracker/Views/Account/Login.cshtml]
+[C:/Users/alish/OneDrive/Desktop/1112006new1/ExpenseTracker/ExpenseTracker/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alish/OneDrive/Desktop/ExpenseTracker/ExpenseTracker/Views/Account/MemberPage.cshtml]
+[C:/Users/alish/OneDrive/Desktop/1112006new1/ExpenseTracker/ExpenseTracker/Views/Account/MemberPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxNZW1iZXJQYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alish/OneDrive/Desktop/ExpenseTracker/ExpenseTracker/Views/Expense/Create.cshtml]
+[C:/Users/alish/OneDrive/Desktop/1112006new1/ExpenseTracker/ExpenseTracker/Views/Expense/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alish/OneDrive/Desktop/ExpenseTracker/ExpenseTracker/Views/Expense/Delete.cshtml]
+[C:/Users/alish/OneDrive/Desktop/1112006new1/ExpenseTracker/ExpenseTracker/Views/Expense/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alish/OneDrive/Desktop/ExpenseTracker/ExpenseTracker/Views/Expense/Details.cshtml]
+[C:/Users/alish/OneDrive/Desktop/1112006new1/ExpenseTracker/ExpenseTracker/Views/Expense/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alish/OneDrive/Desktop/ExpenseTracker/ExpenseTracker/Views/Expense/Edit.cshtml]
+[C:/Users/alish/OneDrive/Desktop/1112006new1/ExpenseTracker/ExpenseTracker/Views/Expense/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alish/OneDrive/Desktop/ExpenseTracker/ExpenseTracker/Views/Expense/Index.cshtml]
+[C:/Users/alish/OneDrive/Desktop/1112006new1/ExpenseTracker/ExpenseTracker/Views/Expense/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alish/OneDrive/Desktop/ExpenseTracker/ExpenseTracker/Views/Expense/Search.cshtml]
+[C:/Users/alish/OneDrive/Desktop/1112006new1/ExpenseTracker/ExpenseTracker/Views/Expense/Search.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZVxTZWFyY2guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alish/OneDrive/Desktop/ExpenseTracker/ExpenseTracker/Views/Home/Index.cshtml]
+[C:/Users/alish/OneDrive/Desktop/1112006new1/ExpenseTracker/ExpenseTracker/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alish/OneDrive/Desktop/ExpenseTracker/ExpenseTracker/Views/Home/Privacy.cshtml]
+[C:/Users/alish/OneDrive/Desktop/1112006new1/ExpenseTracker/ExpenseTracker/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alish/OneDrive/Desktop/ExpenseTracker/ExpenseTracker/Views/Shared/Error.cshtml]
+[C:/Users/alish/OneDrive/Desktop/1112006new1/ExpenseTracker/ExpenseTracker/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alish/OneDrive/Desktop/ExpenseTracker/ExpenseTracker/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/alish/OneDrive/Desktop/1112006new1/ExpenseTracker/ExpenseTracker/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alish/OneDrive/Desktop/ExpenseTracker/ExpenseTracker/Views/_ViewImports.cshtml]
+[C:/Users/alish/OneDrive/Desktop/1112006new1/ExpenseTracker/ExpenseTracker/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alish/OneDrive/Desktop/ExpenseTracker/ExpenseTracker/Views/_ViewStart.cshtml]
+[C:/Users/alish/OneDrive/Desktop/1112006new1/ExpenseTracker/ExpenseTracker/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alish/OneDrive/Desktop/ExpenseTracker/ExpenseTracker/Views/Shared/_Layout.cshtml]
+[C:/Users/alish/OneDrive/Desktop/1112006new1/ExpenseTracker/ExpenseTracker/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7m57npvwnm

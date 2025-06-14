@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj": {}
+    "C:\\Users\\alish\\OneDrive\\Desktop\\1112006new1\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj": {
+    "C:\\Users\\alish\\OneDrive\\Desktop\\1112006new1\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj",
+        "projectUniqueName": "C:\\Users\\alish\\OneDrive\\Desktop\\1112006new1\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj",
         "projectName": "ExpenseTracker",
-        "projectPath": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj",
+        "projectPath": "C:\\Users\\alish\\OneDrive\\Desktop\\1112006new1\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj",
         "packagesPath": "C:\\Users\\alish\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alish\\OneDrive\\Desktop\\ExpenseTracker\\ExpenseTracker\\obj\\",
+        "outputPath": "C:\\Users\\alish\\OneDrive\\Desktop\\1112006new1\\ExpenseTracker\\ExpenseTracker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -50,21 +50,21 @@ namespace ExpenseTracker.Controllers
 
             try
             {
-                // 詳細除錯資訊
+                
                 var debugInfo = new List<string>();
 
-                // 檢查服務是否注入成功
+                
                 debugInfo.Add($"ExpensesService 注入狀態: {(_expensesService != null ? "成功" : "失敗")}");
 
-                // 檢查資料庫連接
+                
                 var canConnect = await _expensesService.TableExpenses1112006.AnyAsync();
                 debugInfo.Add($"資料庫連接狀態: {(canConnect ? "成功" : "失敗")}");
 
-                // 檢查資料表總數
+                
                 var totalCount = await _expensesService.TableExpenses1112006.CountAsync();
                 debugInfo.Add($"資料表總筆數: {totalCount}");
 
-                // 取得前5筆原始資料（不排序）
+                
                 var rawData = await _expensesService.TableExpenses1112006.Take(5).ToListAsync();
                 debugInfo.Add($"前5筆原始資料數量: {rawData.Count}");
 
@@ -143,7 +143,14 @@ namespace ExpenseTracker.Controllers
                 }
                 catch (Exception ex)
                 {
-                    TempData["Error"] = "新增失敗：" + ex.Message;
+                    var errorMsg = "新增失敗：" + ex.Message;
+                    if (ex.InnerException != null)
+                    {
+                        errorMsg += " | 內部錯誤：" + ex.InnerException.Message;
+                    }
+                    TempData["Error"] = errorMsg;
+                    ModelState.AddModelError("", errorMsg);
+
                 }
             }
             return View(expense);
@@ -248,7 +255,7 @@ namespace ExpenseTracker.Controllers
                 return Json(new { error = ex.Message });
             }
         }
-        // 在 ExpenseController.cs 中新增以下方法
+        
 
         public async Task<IActionResult> Search(string description, string category, DateTime? startDate, DateTime? endDate, int? page = 1)
         {
@@ -261,7 +268,7 @@ namespace ExpenseTracker.Controllers
 
             try
             {
-                // Get all categories and build SelectList
+                
                 var allCategories = await _expensesService.TableExpenses1112006
                     .Where(e => !string.IsNullOrEmpty(e.Category))
                     .Select(e => e.Category)

@@ -52,7 +52,7 @@ namespace ExpenseTracker.Controllers
             return RedirectToAction("Login");
         }
 
-        // 預設轉導到登入頁
+        // 預設導向登入頁
         public IActionResult Index()
         {
             return RedirectToAction("Login");
